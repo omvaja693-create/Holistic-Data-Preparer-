@@ -6,7 +6,7 @@
 
 ## 🎥 Video Explanation
 
-📌 **Google Drive Link:** `https://drive.google.com/file/d/1YZAH9kBGuKGRzhOtkPDdX3pWfpOzSQGe/view?usp=sharing`
+📌 **Google Drive Link:** https://drive.google.com/file/d/1YZAH9kBGuKGRzhOtkPDdX3pWfpOzSQGe/view?usp=sharing
 
 > 🎬 5–10 min walkthrough with face + screen recording, covering the full pipeline below.
 
